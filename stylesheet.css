@@ -1,0 +1,30 @@
+h1
+{
+    font-size: 20px;
+    font-family: cursive;
+}
+.note
+{
+
+}
+/*p.title
+{
+    font-size: x-large;
+    font-style: oblique;
+    font-family: cursive;
+} */
+p
+{
+        width: 100%;
+    font-size: 20px;
+    line-height: 28px;
+    color: #686868;
+    margin: 0;
+    font-family: 'roboto_slablight';
+}
+#dummyy
+{
+    background-image: url('images/sea.jpg');
+   
+}
+
